@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Vichukano/sberbank-test-task.svg?branch=master)](https://travis-ci.org/Vichukano/sberbank-test-task)
+[![codecov](https://codecov.io/gh/Vichukano/sberbank-test-task/branch/master/graph/badge.svg)](https://codecov.io/gh/Vichukano/sberbank-test-task)
+
 # sberbank-test-task
 1. Необходимо написать на Java метод, реализующий сортировку «пузырьком». 
 Неинициализированный массив считается ошибкой входных данных.
